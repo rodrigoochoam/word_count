@@ -15,6 +15,10 @@ A simple web application that counts the top three most common words in a given 
 - JavaScript
 - Tailwind CSS
 
+## Live Preview
+
+You can view a live demo of the application [here](https://wordcountrom.netlify.app/).
+
 ## Installation
 
 1. Clone the repository or download the files.
@@ -28,7 +32,7 @@ A simple web application that counts the top three most common words in a given 
 
 ## Author
 
-Created por Rodrigo Ochoa Mayagoitia
+Creador por Rodrigo Ochoa Mayagoitia
 
 ## License
 
